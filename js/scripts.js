@@ -10,7 +10,7 @@ console.log(value);
 if (value >0) {
 	console.log("wynik dodatni");
 } else if (value <0) {
-	colnsole.log("Wynik ujemny");
+	console.log("Wynik ujemny");
 }
 else {
 	console.log("Wynik wynosi zero");
